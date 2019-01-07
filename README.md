@@ -4,6 +4,7 @@
 
 
 -Notable methods:
+
   -Allows to see all previous sign-ins from any date
   -Allows to create new sign-ins
   -Removes duplicated sign-ins
@@ -13,6 +14,7 @@
   
  
 -Things to update for future:
+
   -Separate full names to the format of "Last, First"
   -Figure out how to delete a selected sign-in
   -Format names and id's
